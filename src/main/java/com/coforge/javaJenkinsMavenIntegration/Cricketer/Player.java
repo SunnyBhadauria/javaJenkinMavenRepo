@@ -1,4 +1,4 @@
-package com.coforge.jenkinsJava;
+package com.coforge.javaJenkinsMavenIntegration.Cricketer;
 
 public class Player {
 
